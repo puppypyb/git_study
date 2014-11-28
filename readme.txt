@@ -9,3 +9,5 @@ This is the 1st modified.
 3st modified.
 
 git tracks changes of files.
+
+add 1.
