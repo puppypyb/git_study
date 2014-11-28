@@ -10,4 +10,4 @@ This is the 1st modified.
 
 git tracks changes of files.
 
-add 1.add2.
+add 1.add 2.
